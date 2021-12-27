@@ -170,7 +170,7 @@ string s;
 int main()
 {
     SLR1 analyer;
-    cout << endl << "SLR(1)分析程序,编制人:刘鑫,201958508239,计198-2" << endl;
+    cout << endl << "SLR(1)分析程序,编制人:偏偏喜欢你" << endl;
     cout << "输入一个以#结束的符号串(包括+—*/()i#):" << endl;
     cin >> s;
     cout << "输出过程如下:" << endl;
